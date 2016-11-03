@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
@@ -9,6 +10,9 @@
 > including the giants: Amazon, Facebook, Google or Microsoft.
 >
 > *Best of luck to you!*
+=======
+# Google Interview University
+>>>>>>> always be coding and harvard asymptotic vid
 
 Translations:
 - [中文版本](translations/README-cn.md)
@@ -39,12 +43,28 @@ This is my multi-month study plan for going from web developer (self-taught, no 
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
+<<<<<<< HEAD
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
 many years of experience and are claiming many years of software engineering experience, expect a harder interview.
 
 If you have many years of software/web development experience, note that large software companies like Google, Amazon,
 Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
+=======
+This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
+There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
+Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
+sometimes word-for-word in Google's coaching notes.
+
+I've pared down what you need to know from what Yegge recommends. I've altered Yegge's requirements
+from information received from my contact at Google. This is meant for **new software engineers** or those switching from
+software/web development to software engineering (where computer science knowledge is required). If you have
+many years of experience and are claiming many years of software engineering experience, expect a harder interview.
+[Read more here](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
+
+If you have many years of software/web development experience, note that Google views software engineering as
+different from software/web development and they require computer science knowledge.
+>>>>>>> always be coding and harvard asymptotic vid
 
 If you want to be a reliability engineer or systems engineer, study more from the optional list (networking, security).
 
@@ -209,8 +229,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-<<<<<<< HEAD
-=======
 ## Get in a Googley Mood
 
 Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
@@ -238,7 +256,6 @@ I'm on the journey, too. Follow along:
 
 ![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
->>>>>>> always be coding and harvard asymptotic vid
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
@@ -284,7 +301,16 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
     - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
+<<<<<<< HEAD
 - [ ] Additional (not suggested by Google but I added):
+=======
+- [ ] Prep Courses:
+    - [x] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
+
+- [ ] Additional (not suggested by Google but I added):
+    - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+>>>>>>> always be coding and harvard asymptotic vid
     - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
     - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
