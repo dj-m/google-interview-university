@@ -1,11 +1,11 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer, 
-> but it grew to the large list you see today. After going through this study plan, [I got hired 
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! 
+> I originally created this as a short to-do list of study topics for becoming a software engineer,
+> but it grew to the large list you see today. After going through this study plan, [I got hired
+> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > You probably won't have to study as much as I did. Anyway, everything you need is here.
 >
-> The items listed here will prepare you well for in an interview at just about any software company, 
+> The items listed here will prepare you well for in an interview at just about any software company,
 > including the giants: Amazon, Facebook, Google or Microsoft.
 >
 > *Best of luck to you!*
@@ -209,6 +209,36 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
+<<<<<<< HEAD
+=======
+## Get in a Googley Mood
+
+Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
+
+[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
+
+## Did I Get the Job?
+
+I haven't applied yet.
+
+Right now I'm doing programming problems all day long. That will continue for a few weeks, and then I'll
+apply through a referral I've been holding onto since February (yes, February).
+
+    Thanks for the referral, JP.
+
+## Follow Along with Me
+
+I'm on the journey, too. Follow along:
+
+- **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
+- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
+- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
+- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
+- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
+
+![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
+
+>>>>>>> always be coding and harvard asymptotic vid
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
@@ -238,8 +268,26 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): 
-        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more. 
+    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+
+- [ ] Videos:
+    - [ ] [How to Work at Google: Prepare for an Engineering Interview (video)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
+    - [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+    - [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+    - [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
+
+- [ ] Articles:
+    - [ ] [Becoming a Googler in Three Steps](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
+    - [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+        - all the things he mentions that you need to know are listed below
+    - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
+    - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+
+- [ ] Additional (not suggested by Google but I added):
+    - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
+    - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
+    - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 
 ## Pick One Language for the Interview
 
@@ -422,7 +470,11 @@ same card and answer it several times correctly before you really know it. Repet
 your brain.
 
 An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember.
+<<<<<<< HEAD
 It's user-friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
+=======
+It's user friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
+>>>>>>> always be coding and harvard asymptotic vid
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
 
@@ -1373,6 +1425,37 @@ Supplemental:
 - [MIT Interview Materials](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
 - [Exercises for getting better at a given language](http://exercism.io/languages)
 
+<<<<<<< HEAD
+=======
+**Read as a review and problem recognition**
+- [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
+    - This book has 2 parts:
+        - class textbook on data structures and algorithms
+            - pros:
+                - is a good review as any algorithms textbook would be
+                - nice stories from his experiences solving problems in industry and academia
+                - code examples in C
+            - cons:
+                - can be as dense or impenetrable as CLRS, and in some cases CLRS may be a better alternative for some subjects
+                - chapters 7, 8, 9 can be painful to try to follow, as some items are not explained well or require more brain than I have
+                - don't get me wrong: I like Skiena, his teaching style, and mannerisms, but I may not be Stony Brook material.
+        - algorithm catalog:
+            - this is the real reason you buy this book.
+            - about to get to this part. Will update here once I've made my way through it.
+    - To quote Yegge: "More than any other book it helped me understand just how astonishingly commonplace
+        (and important) graph problems are – they should be part of every working programmer's toolkit. The book also
+        covers basic data structures and sorting algorithms, which is a nice bonus. But the gold mine is the second half
+        of the book, which is a sort of encyclopedia of 1-pagers on zillions of useful problems and various ways to solve
+        them, without too much detail. Almost every 1-pager has a simple picture, making it easy to remember. This is a
+        great way to learn how to identify hundreds of problem types."
+    - Can rent it on kindle
+    - Half.com is a great resource for textbooks at good prices.
+    - Answers:
+        - [Solutions](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
+        - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
+    - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
+
+>>>>>>> always be coding and harvard asymptotic vid
 **Read and Do Programming Problems (in this order):**
 
 - [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
@@ -1380,7 +1463,26 @@ Supplemental:
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
+<<<<<<< HEAD
 See [Book List above](#book-list)
+=======
+**If you have time**
+- [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+    - The first couple of chapters present clever solutions to programming problems (some very old using data tape) but
+      that is just an intro. This a guidebook on program design and architecture, much like Code Complete, but much shorter.
+- [ ] [Algorithms and Programming: Problems and Solutions](http://www.amazon.com/Algorithms-Programming-Solutions-Alexander-Shen/dp/0817638474)
+- [ ] [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+    - all code is in C++, if you're looking to use C++ in your interview
+    - good book on problem solving in general.
+
+**Perhaps**
+- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+    - **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data
+     structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently.
+    - To quote Yegge: "But if you want to come into your interviews *prepped*, then consider deferring your application until you've made your way through that book."
+    - Half.com is a great resource for textbooks at good prices.
+    - aka CLR, sometimes CLRS, because Stein was late to the game
+>>>>>>> always be coding and harvard asymptotic vid
 
 ## Coding exercises/challenges
 
