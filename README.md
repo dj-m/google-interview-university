@@ -1,6 +1,6 @@
 # Google Interview University
 
-Translations: 
+Translations:
 - [中文版本](translations/README-cn.md)
 - translations in progress:
     - [Español](https://github.com/jwasham/google-interview-university/issues/80)
@@ -28,13 +28,13 @@ There are extra items I added at the bottom that may come up in the interview or
 Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
 sometimes word-for-word in Google's coaching notes.
 
-I've pared down what you need to know from what Yegge recommends. I've altered Yegge's requirements 
-from information received from my contact at Google. This is meant for **new software engineers** or those switching from 
-software/web development to software engineering (where computer science knowledge is required). If you have 
-many years of experience and are claiming many years of software engineering experience, expect a harder interview. 
+I've pared down what you need to know from what Yegge recommends. I've altered Yegge's requirements
+from information received from my contact at Google. This is meant for **new software engineers** or those switching from
+software/web development to software engineering (where computer science knowledge is required). If you have
+many years of experience and are claiming many years of software engineering experience, expect a harder interview.
 [Read more here](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
 
-If you have many years of software/web development experience, note that Google views software engineering as 
+If you have many years of software/web development experience, note that Google views software engineering as
 different from software/web development and they require computer science knowledge.
 
 If you want to be a reliability engineer or systems engineer, study more from the optional list (networking, security).
@@ -228,7 +228,7 @@ I'm in the queue right now. Hope to interview soon.
 My story: [Why I Studied Full-Time for 8 Months for a Google Interview](https://medium.com/@googleyasheck/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 
 I'm on the journey, too. Follow along:
- 
+
 - **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
 - Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
 - Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
@@ -285,11 +285,11 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 - [ ] Prep Courses:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+    - [x] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
 
 - [ ] Additional (not suggested by Google but I added):
-    - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+    - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
     - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
@@ -365,7 +365,7 @@ If short on time:
         - Chapter 7 - Composite Data Types and Memory Objects
         - Chapter 9 - CPU Architecture
         - Chapter 10 - Instruction Set Architecture
-        - Chapter 11 - Memory Architecture and Organization 
+        - Chapter 11 - Memory Architecture and Organization
 
 If you have more time (I want this book):
 
@@ -376,7 +376,7 @@ If you have more time (I want this book):
 
 **You need to choose a language for the interview (see above).** Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
 
-If you read though one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems. 
+If you read though one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
 **You can skip all the video lectures in this project**, unless you'd like a review.
 
 [Additional language-specific resources here.](programming-language-resources.md)
@@ -385,7 +385,7 @@ If you read though one of these, you should have all the data structures and alg
 
 I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
 
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/) 
+- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
 If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
@@ -457,7 +457,7 @@ OR:
       that is just an intro. This a guidebook on program design and architecture, much like Code Complete, but much shorter.
 
 - ~~"Algorithms and Programming: Problems and Solutions" by Shen~~
-    - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results. 
+    - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results.
     - Would rather spend time on coding problems from another book or online coding problems.
 
 
@@ -486,7 +486,7 @@ I made a mobile-first website so I could review on my phone and tablet, wherever
 Make your own for free:
 
 - [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
-- [My flash cards database (old - 1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db): 
+- [My flash cards database (old - 1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db):
 - [My flash cards database (new - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db):
 
 Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. It's way too much for what's required by Google.
@@ -554,9 +554,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
     - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little 
+        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-        - [answers to questions](https://github.com/lekkas/c-algorithms) 
+        - [answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **How computers process a program:**
     - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
@@ -1199,15 +1199,15 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] [4. Boyer-Moore](https://www.youtube.com/watch?v=fI7Ch6pZXfM&list=PLe-ggMe31CTdAdjXB3lIuf2maubzo9t66&index=2)
         - [ ] [5. Rabin-Karp](https://www.youtube.com/watch?v=QzI0p6zDjK4&index=1&list=PLe-ggMe31CTdAdjXB3lIuf2maubzo9t66)
     - [ ] [Search pattern in text (video)](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
-    
+
     If you need more detail on this subject, see "String Matching" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 
 ---
 
 ## System Design, Scalability, Data Handling
 - **You can expect system design questions if you have 4+ years of experience.**
-- Scalability and System Design are very large topics with many topics and resources, since 
-      there is a lot to consider when designing a software/hardware system that can scale. 
+- Scalability and System Design are very large topics with many topics and resources, since
+      there is a lot to consider when designing a software/hardware system that can scale.
       Expect to spend quite a bit of time on this.
 - Considerations from Yegge:
     - scalability
@@ -1401,6 +1401,37 @@ Supplemental:
 - [MIT Interview Materials](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
 - [Exercises for getting better at a given language](http://exercism.io/languages)
 
+<<<<<<< HEAD
+=======
+**Read as a review and problem recognition**
+- [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
+    - This book has 2 parts:
+        - class textbook on data structures and algorithms
+            - pros:
+                - is a good review as any algorithms textbook would be
+                - nice stories from his experiences solving problems in industry and academia
+                - code examples in C
+            - cons:
+                - can be as dense or impenetrable as CLRS, and in some cases CLRS may be a better alternative for some subjects
+                - chapters 7, 8, 9 can be painful to try to follow, as some items are not explained well or require more brain than I have
+                - don't get me wrong: I like Skiena, his teaching style, and mannerisms, but I may not be Stony Brook material.
+        - algorithm catalog:
+            - this is the real reason you buy this book.
+            - about to get to this part. Will update here once I've made my way through it.
+    - To quote Yegge: "More than any other book it helped me understand just how astonishingly commonplace
+        (and important) graph problems are – they should be part of every working programmer's toolkit. The book also
+        covers basic data structures and sorting algorithms, which is a nice bonus. But the gold mine is the second half
+        of the book, which is a sort of encyclopedia of 1-pagers on zillions of useful problems and various ways to solve
+        them, without too much detail. Almost every 1-pager has a simple picture, making it easy to remember. This is a
+        great way to learn how to identify hundreds of problem types."
+    - Can rent it on kindle
+    - Half.com is a great resource for textbooks at good prices.
+    - Answers:
+        - [Solutions](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
+        - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
+    - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
+
+>>>>>>> always be coding and harvard asymptotic vid
 **Read and Do Programming Problems (in this order):**
 
 - [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
@@ -1408,7 +1439,26 @@ Supplemental:
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
+<<<<<<< HEAD
 See [Book List above](#book-list)
+=======
+**If you have time**
+- [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+    - The first couple of chapters present clever solutions to programming problems (some very old using data tape) but
+      that is just an intro. This a guidebook on program design and architecture, much like Code Complete, but much shorter.
+- [ ] [Algorithms and Programming: Problems and Solutions](http://www.amazon.com/Algorithms-Programming-Solutions-Alexander-Shen/dp/0817638474)
+- [ ] [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+    - all code is in C++, if you're looking to use C++ in your interview
+    - good book on problem solving in general.
+
+**Perhaps**
+- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+    - **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data
+     structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently.
+    - To quote Yegge: "But if you want to come into your interviews *prepped*, then consider deferring your application until you've made your way through that book."
+    - Half.com is a great resource for textbooks at good prices.
+    - aka CLR, sometimes CLRS, because Stein was late to the game
+>>>>>>> always be coding and harvard asymptotic vid
 
 ## Coding exercises/challenges
 
@@ -2036,4 +2086,3 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-
