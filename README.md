@@ -495,7 +495,7 @@ Keep in mind I went overboard and have cards covering everything from assembly l
 same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
 your brain.
 
-An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember. 
+An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember.
 It's user-friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
