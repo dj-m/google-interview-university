@@ -318,16 +318,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
     - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
-<<<<<<< HEAD
 - [ ] Additional (not suggested by Google but I added):
-=======
-- [ ] Prep Courses:
-    - [x] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
-        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-
-- [ ] Additional (not suggested by Google but I added):
-    - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
->>>>>>> always be coding and harvard asymptotic vid
     - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
     - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
@@ -514,6 +505,9 @@ your brain.
 
 An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0c849ad5a2621064227c647e495851946ee9c9ad
 It's user-friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
 =======
 It's user friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
